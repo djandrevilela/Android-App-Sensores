@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PISID2021</string>
+
+    <string-array name="tabelas">
+        <item>---</item>
+        <item>Temperatura</item>
+        <item>Humidade</item>
+        <item>Luminosidade</item>
+    </string-array>
+</resources>
